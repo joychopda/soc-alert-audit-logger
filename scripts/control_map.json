@@ -1,0 +1,27 @@
+{
+  "true_positive_escalated": {
+    "soc2": "CC7.2",
+    "iso27001": "A.5.25",
+    "description": "Security event evaluated and confirmed as an incident requiring response."
+  },
+  "false_positive_confirmed": {
+    "soc2": "CC7.2",
+    "iso27001": "A.5.24",
+    "description": "Security event evaluated and determined not to represent malicious activity."
+  },
+  "benign_expected_behavior": {
+    "soc2": "CC7.2",
+    "iso27001": "A.5.24",
+    "description": "Security event matches known/allowed system or user behavior."
+  },
+  "duplicate_of_existing_incident": {
+    "soc2": "CC7.3",
+    "iso27001": "A.5.25",
+    "description": "Security event is a duplicate detection of an already-tracked incident."
+  },
+  "insufficient_evidence_closed_monitoring": {
+    "soc2": "CC7.2",
+    "iso27001": "A.5.24",
+    "description": "Security event could not be conclusively evaluated; closed with continued monitoring in place."
+  }
+}
