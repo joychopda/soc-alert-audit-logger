@@ -7,7 +7,7 @@ close/dismiss/escalate decision an LLM makes leaves evidence a human auditor can
 independently verify without re-trusting the LLM.
 
 ## Owner
-Joy Chopda ([@joychopda](https://github.com/joychopda)) — joy_chopda@lineaje.com
+Joy Chopda ([@joychopda](https://github.com/joychopda)) — joy_chopda@me.com
 
 ## License / Terms of Use
 MIT. Free to use, fork, and redistribute with attribution. No warranty — this is a
