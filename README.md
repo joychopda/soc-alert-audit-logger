@@ -19,6 +19,8 @@ This skill forces every closure through a script that answers all four, and adds
 weekly digest that catches LLM (or analyst) rubber-stamping before it becomes a missed
 incident.
 
+See [`skill-card.md`](skill-card.md) for owner, license, risks, and dependencies (NVIDIA skill-card format).
+
 ## Install
 
 Drop this folder into `~/.claude/skills/soc-alert-audit-logger/` (or your project's
